@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="982.00142"
-     inkscape:cy="1333.2498"
+     inkscape:cx="978.10114"
+     inkscape:cy="527.14905"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -39,8 +39,8 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="false"
-     inkscape:measure-start="1200.21,1109.73"
-     inkscape:measure-end="1198.01,1109.69"
+     inkscape:measure-start="978.813,130.25"
+     inkscape:measure-end="989.695,135.832"
      showguides="false"
      inkscape:lockguides="false" />
   <metadata
@@ -7663,6 +7663,25 @@
              style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b5b5b5;stroke-width:0.14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
         </g>
       </g>
+    </g>
+    <g
+       id="g3375"
+       transform="translate(6.7732511,-0.32740518)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3353"
+         d="m 261.72535,570.85911 h -6.15054 v -4.45506 c 0,0 0.15201,-2.09304 3.07528,-2.09304 2.91157,0 3.07526,1.96444 3.07526,1.96444 z"
+         style="fill:#ff2824;fill-opacity:1;stroke:#ff2824;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3355"
+         d="m 260.82567,570.08811 h -4.34982 l 0.8419,-0.8419 2.66017,-0.006 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3353-0"
+         d="m 259.66788,568.61005 h -2.0608 v -1.49272 c 0,0 0.0509,-0.70129 1.0304,-0.70129 0.97555,0 1.0304,0.6582 1.0304,0.6582 z"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08865128px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
   <g
