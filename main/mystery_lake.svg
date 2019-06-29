@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="767.81892"
-     inkscape:cy="567.97296"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1505.3273"
+     inkscape:cy="621.01449"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer9"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -44,7 +44,7 @@
      inkscape:snap-nodes="false"
      inkscape:measure-start="978.813,130.25"
      inkscape:measure-end="989.695,135.832"
-     showguides="false"
+     showguides="true"
      inkscape:lockguides="false" />
   <metadata
      id="metadata266">
@@ -9877,7 +9877,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="operable infrastructure [any difficulty]"
+     inkscape:label="operable infrastructure + names [any difficulty]"
      style="display:inline">
     <g
        id="g2577">
@@ -9928,6 +9928,266 @@
         <rect
            style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.18070883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
            id="rect2435-3-0"
+           width="3.4789033"
+           height="0.20023565"
+           x="219.18541"
+           y="464.84238" />
+      </g>
+    </g>
+    <g
+       id="g2700"
+       transform="translate(6.2803617)">
+      <rect
+         y="423.38388"
+         x="246.27765"
+         height="15.256315"
+         width="21.195288"
+         id="rect2579"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.29789764;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.59579538, 0.29789769;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text2583"
+         y="427.14093"
+         x="256.88126"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+           y="427.14093"
+           x="256.88126"
+           id="tspan2581"
+           sodipodi:role="line">Запас для</tspan><tspan
+           id="tspan2603"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+           y="430.54492"
+           x="256.88126"
+           sodipodi:role="line">выживания</tspan></text>
+    </g>
+    <g
+       id="g2772">
+      <rect
+         y="409.96515"
+         x="298.42859"
+         height="15.210856"
+         width="28.241684"
+         id="rect2579-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.34335604;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.68671225, 0.34335611;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text2583-0"
+         y="413.69946"
+         x="312.68216"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2603-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+           y="413.69946"
+           x="312.68216"
+           sodipodi:role="line">Администрация</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+           y="417.10345"
+           x="312.68216"
+           sodipodi:role="line"
+           id="tspan2731">турбазы</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="338.19571"
+       y="431.94305"
+       id="text2583-0-4"><tspan
+         id="tspan2731-0"
+         sodipodi:role="line"
+         x="338.19571"
+         y="431.94305"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332">Тропа</tspan><tspan
+         sodipodi:role="line"
+         x="338.19571"
+         y="435.34705"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2776">у озера</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="366.47156"
+       y="421.32578"
+       id="text2583-0-4-1"><tspan
+         sodipodi:role="line"
+         x="366.47156"
+         y="421.32578"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2776-4">Загадочное</tspan><tspan
+         sodipodi:role="line"
+         x="366.47156"
+         y="424.72977"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2822">озеро</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="402.29865"
+       y="396.94366"
+       id="text2583-0-4-1-7"><tspan
+         sodipodi:role="line"
+         x="402.29865"
+         y="396.94366"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2776-4-5">Вид на</tspan><tspan
+         sodipodi:role="line"
+         x="402.29865"
+         y="400.34766"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2822-7">озеро</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="428.5076"
+       y="417.30527"
+       id="text2583-0-4-1-7-7"><tspan
+         sodipodi:role="line"
+         x="428.5076"
+         y="417.30527"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2822-7-9">Река</tspan><tspan
+         sodipodi:role="line"
+         x="428.5076"
+         y="420.70926"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2868">(Южный берег)</tspan></text>
+    <g
+       id="g2913"
+       transform="translate(160.00297,16.859947)">
+      <rect
+         y="426.32446"
+         x="252.53644"
+         height="14.738044"
+         width="16.071817"
+         id="rect2579-5-8"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.2549617;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.50992359, 0.25496178;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text2583-0-6"
+         y="430.103"
+         x="260.73264"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0.1;font-family:'Fira Sans Condensed Light';-inkscape-font-specification:'Fira Sans Condensed Light, Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="430.103"
+           x="260.73264"
+           sodipodi:role="line"
+           id="tspan2731-2"><tspan
+   style="line-height:0.1"
+   id="tspan2901">Домик</tspan> для</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0.1;font-family:'Fira Sans Condensed Light';-inkscape-font-specification:'Fira Sans Condensed Light, Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="432.94547"
+           x="260.73264"
+           sodipodi:role="line"
+           id="tspan2899">рыбалки</tspan></text>
+    </g>
+    <g
+       transform="translate(95.418266,-41.630973)"
+       style="display:inline"
+       id="g2577-4">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2416-8"
+         d="m 223.54757,465.78545 v -3.26236 c 0,0 -0.0702,-2.40877 -2.65432,-2.40877"
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2416-9-6"
+         d="m 218.28371,465.78539 v -3.26236 c 0,0 0.0702,-2.40877 2.65432,-2.40877"
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2433-2"
+         d="m 221.94821,463.19032 c 0,0 0.0331,-0.45061 -0.20257,-0.70694 -0.23565,-0.2563 -0.62012,-0.69038 -0.6656,-1.1534 0,0 0.0331,0.76481 -0.15296,0.88883 -0.18603,0.12403 -0.23977,0.008 -0.40927,0.0661 -0.1695,0.0579 -0.59945,0.29766 -0.64906,0.98805 0,0 0.0165,0.49201 0.11162,0.67805 0,0 0.004,-0.30593 0.1695,-0.42168 0.16537,-0.11576 0.16537,-0.23978 0.21084,-0.3514 0.0455,-0.11162 0.062,-0.23151 0.31419,-0.20671 0.25218,0.0248 0.35554,0.62839 0.37621,0.75655 0,0 0.13642,-0.25218 0.12402,-0.45476 -0.0124,-0.20257 -0.16123,-0.59531 -0.23151,-0.64905 -0.0703,-0.0538 0.10335,-0.23151 0.21911,-0.0331 0.11575,0.19844 0.1943,0.0496 0.31419,0.18191 0.11989,0.13229 0.14056,0.66145 0.0124,1.08727 0,0 0.42995,-0.18191 0.45889,-0.66972 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(-0.95592307,0.29361725,0.29361725,0.95592307,295.57569,-44.306241)"
+         id="g2545-3-7"
+         style="display:inline">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-9-7"
+           width="3.9439762"
+           height="0.79744178"
+           x="218.95995"
+           y="464.53513" />
+        <rect
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.18070883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-0-2-6"
+           width="3.4789033"
+           height="0.20023565"
+           x="219.18541"
+           y="464.84238" />
+      </g>
+      <g
+         transform="rotate(17.07464,220.67924,464.84507)"
+         id="g2545-6">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-2"
+           width="3.9439762"
+           height="0.79744178"
+           x="218.95995"
+           y="464.53513" />
+        <rect
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.18070883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-0-7"
+           width="3.4789033"
+           height="0.20023565"
+           x="219.18541"
+           y="464.84238" />
+      </g>
+    </g>
+    <g
+       transform="translate(196.12219,-8.8904427)"
+       style="display:inline"
+       id="g2577-4-6">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2416-8-1"
+         d="m 223.54757,465.78545 v -3.26236 c 0,0 -0.0702,-2.40877 -2.65432,-2.40877"
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2416-9-6-9"
+         d="m 218.28371,465.78539 v -3.26236 c 0,0 0.0702,-2.40877 2.65432,-2.40877"
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2433-2-8"
+         d="m 221.94821,463.19032 c 0,0 0.0331,-0.45061 -0.20257,-0.70694 -0.23565,-0.2563 -0.62012,-0.69038 -0.6656,-1.1534 0,0 0.0331,0.76481 -0.15296,0.88883 -0.18603,0.12403 -0.23977,0.008 -0.40927,0.0661 -0.1695,0.0579 -0.59945,0.29766 -0.64906,0.98805 0,0 0.0165,0.49201 0.11162,0.67805 0,0 0.004,-0.30593 0.1695,-0.42168 0.16537,-0.11576 0.16537,-0.23978 0.21084,-0.3514 0.0455,-0.11162 0.062,-0.23151 0.31419,-0.20671 0.25218,0.0248 0.35554,0.62839 0.37621,0.75655 0,0 0.13642,-0.25218 0.12402,-0.45476 -0.0124,-0.20257 -0.16123,-0.59531 -0.23151,-0.64905 -0.0703,-0.0538 0.10335,-0.23151 0.21911,-0.0331 0.11575,0.19844 0.1943,0.0496 0.31419,0.18191 0.11989,0.13229 0.14056,0.66145 0.0124,1.08727 0,0 0.42995,-0.18191 0.45889,-0.66972 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(-0.95592307,0.29361725,0.29361725,0.95592307,295.57569,-44.306241)"
+         id="g2545-3-7-3"
+         style="display:inline">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-9-7-9"
+           width="3.9439762"
+           height="0.79744178"
+           x="218.95995"
+           y="464.53513" />
+        <rect
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.18070883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-0-2-6-1"
+           width="3.4789033"
+           height="0.20023565"
+           x="219.18541"
+           y="464.84238" />
+      </g>
+      <g
+         transform="rotate(17.07464,220.67924,464.84507)"
+         id="g2545-6-6">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-2-1"
+           width="3.9439762"
+           height="0.79744178"
+           x="218.95995"
+           y="464.53513" />
+        <rect
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.18070883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-0-7-6"
            width="3.4789033"
            height="0.20023565"
            x="219.18541"
