@@ -11,4 +11,4 @@ I'll be glad to see any pull requests that can help to provide the best and the 
 **And I hope you'll enjoy my work and the game itself :)**
 
 ## Requirements
-I use [Ubuntu fonts](https://design.ubuntu.com/font/) in my maps, so be sure to install it before you will modify my sources.
+I use [Ubuntu Condensed](https://fonts.google.com/specimen/Ubuntu+Condensed) and [Fira Sans Condensed](https://fonts.google.com/specimen/Fira+Sans+Condensed) fonts in my maps, so be sure to install it before you will modify my sources.
