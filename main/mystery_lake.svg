@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1478.87"
-     inkscape:cy="1520.0844"
+     inkscape:zoom="0.5"
+     inkscape:cx="832.72499"
+     inkscape:cy="1061.5529"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -10023,7 +10023,7 @@
          x="428.5076"
          y="420.70926"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan2868">(Южный берег)</tspan></text>
+         id="tspan2868">(южный берег)</tspan></text>
     <g
        transform="translate(95.418266,-41.630973)"
        style="display:inline"
@@ -11479,6 +11479,325 @@
         </g>
       </g>
     </g>
+    <g
+       id="g5044">
+      <rect
+         y="135.81073"
+         x="495.4798"
+         height="21.964285"
+         width="26.87636"
+         id="rect2579-5-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.40250045;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.80500103, 0.4025005;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text2583-0-8"
+         y="139.51538"
+         x="508.85321"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+           y="139.51538"
+           x="508.85321"
+           sodipodi:role="line"
+           id="tspan2731-75">Верхняя дамба</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#ff0707;fill-opacity:1;stroke-width:0.26458332"
+           y="142.91936"
+           x="508.85321"
+           sodipodi:role="line"
+           id="tspan4910">К ГЭС &quot;Картер&quot;</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#ff0707;fill-opacity:1;stroke-width:0.26458332"
+           y="146.32333"
+           x="508.85321"
+           sodipodi:role="line"
+           id="tspan4912">и окружению</tspan></text>
+    </g>
+    <g
+       transform="translate(287.35597,-312.17698)"
+       style="display:inline"
+       id="g2577-4-69">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2416-8-0"
+         d="m 223.54757,465.78545 v -3.26236 c 0,0 -0.0702,-2.40877 -2.65432,-2.40877"
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2416-9-6-6"
+         d="m 218.28371,465.78539 v -3.26236 c 0,0 0.0702,-2.40877 2.65432,-2.40877"
+         style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2433-2-97"
+         d="m 221.94821,463.19032 c 0,0 0.0331,-0.45061 -0.20257,-0.70694 -0.23565,-0.2563 -0.62012,-0.69038 -0.6656,-1.1534 0,0 0.0331,0.76481 -0.15296,0.88883 -0.18603,0.12403 -0.23977,0.008 -0.40927,0.0661 -0.1695,0.0579 -0.59945,0.29766 -0.64906,0.98805 0,0 0.0165,0.49201 0.11162,0.67805 0,0 0.004,-0.30593 0.1695,-0.42168 0.16537,-0.11576 0.16537,-0.23978 0.21084,-0.3514 0.0455,-0.11162 0.062,-0.23151 0.31419,-0.20671 0.25218,0.0248 0.35554,0.62839 0.37621,0.75655 0,0 0.13642,-0.25218 0.12402,-0.45476 -0.0124,-0.20257 -0.16123,-0.59531 -0.23151,-0.64905 -0.0703,-0.0538 0.10335,-0.23151 0.21911,-0.0331 0.11575,0.19844 0.1943,0.0496 0.31419,0.18191 0.11989,0.13229 0.14056,0.66145 0.0124,1.08727 0,0 0.42995,-0.18191 0.45889,-0.66972 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(-0.95592307,0.29361725,0.29361725,0.95592307,295.57569,-44.306241)"
+         id="g2545-3-7-9"
+         style="display:inline">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-9-7-2"
+           width="3.9439762"
+           height="0.79744178"
+           x="218.95995"
+           y="464.53513" />
+        <rect
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.18070883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-0-2-6-4"
+           width="3.4789033"
+           height="0.20023565"
+           x="219.18541"
+           y="464.84238" />
+      </g>
+      <g
+         transform="rotate(17.07464,220.67924,464.84507)"
+         id="g2545-6-4">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-2-5"
+           width="3.9439762"
+           height="0.79744178"
+           x="218.95995"
+           y="464.53513" />
+        <rect
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.18070883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2435-3-0-7-0"
+           width="3.4789033"
+           height="0.20023565"
+           x="219.18541"
+           y="464.84238" />
+      </g>
+    </g>
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 519.14987,150.38656 c 0,0 0.98806,-0.57296 1.09331,-0.69575 0.10523,-0.12277 0.48525,-0.52033 0.12862,-0.50863 -0.35665,0.0116 -0.9179,0.26307 -1.13422,0.37417 -0.21632,0.11107 -0.56711,0.4151 -0.97052,0.4268 -0.40341,0.0116 -0.56713,-0.29234 -0.60804,-0.50866 -0.0409,-0.21633 -0.15787,-0.45019 0.52618,-0.60219 0.68405,-0.15201 1.02899,-0.36248 1.1167,-0.53203 0.0877,-0.16954 -0.17542,-0.32157 -0.45019,-0.17539 -0.27479,0.14616 -0.13449,0.24556 -1.23362,0.24556 -1.09916,0 -0.91792,-0.0877 -0.90038,-0.43849 0.0175,-0.35082 -0.16954,-0.78344 -0.75419,-0.64313 -0.58465,0.14031 -0.58465,0.84191 -0.49694,1.08162 0.0877,0.23969 0.32155,0.11107 0.50279,0.35663 0.18124,0.24556 -0.25726,0.60804 -0.45604,0.80097 -0.19878,0.19294 -0.4677,0.7425 -0.32155,1.50255 0.14616,0.76004 0.81852,1.25116 0.68406,0.64897 -0.13449,-0.6022 -0.16957,-0.26895 -0.24556,-0.92374 0,0 -0.10524,-0.59635 0.42095,-0.4385 0.52618,0.15786 0.29817,0.47357 0.53788,0.80098 0.2397,0.3274 0.19878,0.58465 0.22216,1.42655 0.0234,0.8419 0.64312,1.73642 0.66651,0.86528 0.0234,-0.87113 0.0585,-1.77734 0.47356,-2.20413 0.41511,-0.4268 1.08159,-0.79513 1.19853,-0.85944 z"
+       id="path3386-59-7-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="522.30023"
+       y="174.86513"
+       id="text2583-0-4-4-7-8-9-3-3-4"><tspan
+         sodipodi:role="line"
+         x="522.30023"
+         y="174.86513"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4564-8">ГЭС &quot;Картер&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="473.97012"
+       y="206.06703"
+       id="text2583-0-4-4-7-8-9-3-3-4-9"><tspan
+         sodipodi:role="line"
+         x="473.97012"
+         y="206.06703"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4564-8-3">Железнодорожный</tspan><tspan
+         sodipodi:role="line"
+         x="473.97012"
+         y="209.47101"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4971">мост</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="429.67163"
+       y="208.82645"
+       id="text2583-0-4-4-7-8-9-3-3-4-9-6"><tspan
+         sodipodi:role="line"
+         x="429.67163"
+         y="208.82645"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4971-4">Грузовая</tspan><tspan
+         sodipodi:role="line"
+         x="429.67163"
+         y="212.23042"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4996">железнодорожная</tspan><tspan
+         sodipodi:role="line"
+         x="429.67163"
+         y="215.6344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4998">платформа</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="528.21411"
+       y="205.08257"
+       id="text2583-0-8-9"><tspan
+         id="tspan4912-5"
+         sodipodi:role="line"
+         x="528.21411"
+         y="205.08257"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#ff0707;fill-opacity:1;stroke-width:0.26458332">К железной</tspan><tspan
+         sodipodi:role="line"
+         x="528.21411"
+         y="208.48654"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#ff0707;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5051">дороге</tspan><tspan
+         sodipodi:role="line"
+         x="528.21411"
+         y="211.89052"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#ff0707;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5053">&quot;Водопады ворона&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="460.80548"
+       y="240.14619"
+       id="text2583-0-4-1-7-7-8"><tspan
+         sodipodi:role="line"
+         x="460.80548"
+         y="240.14619"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2822-7-9-4">Река</tspan><tspan
+         sodipodi:role="line"
+         x="460.80548"
+         y="243.55017"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2868-9">(северный берег)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="447.41202"
+       y="307.42224"
+       id="text2583-0-4-1-7-7-8-6"><tspan
+         sodipodi:role="line"
+         x="447.41202"
+         y="307.42224"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2868-9-7">Пещера</tspan><tspan
+         sodipodi:role="line"
+         x="447.41202"
+         y="310.82623"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5162">Алана</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="506.46844"
+       y="315.56442"
+       id="text2583-0-6-3-1"><tspan
+         id="tspan2899-4-2"
+         sodipodi:role="line"
+         x="506.46844"
+         y="315.56442"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0.1;font-family:'Fira Sans Condensed Light';-inkscape-font-specification:'Fira Sans Condensed Light, Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332">Охотничья</tspan><tspan
+         sodipodi:role="line"
+         x="506.46844"
+         y="318.40689"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0.1;font-family:'Fira Sans Condensed Light';-inkscape-font-specification:'Fira Sans Condensed Light, Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4024-1">засидка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="411.89365"
+       y="521.80212"
+       id="text2583-0-4-1-8"><tspan
+         sodipodi:role="line"
+         x="411.89365"
+         y="521.80212"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2822-6"><tspan
+   id="tspan5269"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332">Загадочное </tspan>озеро</tspan><tspan
+         sodipodi:role="line"
+         x="411.89365"
+         y="525.20612"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5271">(западная сторона)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="317.00253"
+       y="505.35645"
+       id="text2583-0-4-4-5"><tspan
+         sodipodi:role="line"
+         x="317.00253"
+         y="505.35645"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2776-5-57">Тихая</tspan><tspan
+         sodipodi:role="line"
+         x="317.00253"
+         y="508.76044"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5354">поляна</tspan><tspan
+         sodipodi:role="line"
+         x="317.00253"
+         y="512.16443"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5356">Дэйва</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="264.05234"
+       y="575.42749"
+       id="text2583-0-8-9-3"><tspan
+         sodipodi:role="line"
+         x="264.05234"
+         y="575.42749"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#ff0707;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5053-9">К одинокой топи</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89.421707"
+       y="565.97937"
+       id="text2583-0-8-9-3-2"><tspan
+         sodipodi:role="line"
+         x="89.421707"
+         y="565.97937"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold, Bold';text-align:center;text-anchor:middle;fill:#ff0707;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5053-9-5">В Милтон</tspan></text>
+    <g
+       id="g5526"
+       transform="translate(-88.800781,-138.41016)">
+      <rect
+         y="445.96634"
+         x="412.82434"
+         height="11.969336"
+         width="16.096832"
+         id="rect2579-5-8-2"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.22994696;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.45989417, 0.22994708;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text2583-0-6-2"
+         y="449.75735"
+         x="421.03305"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0.1;font-family:'Fira Sans Condensed Light';-inkscape-font-specification:'Fira Sans Condensed Light, Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="449.75735"
+           x="421.03305"
+           sodipodi:role="line"
+           id="tspan2899-44">Вагон</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 330.19461,315.02789 c 0,0 0.98806,-0.57296 1.09331,-0.69575 0.10523,-0.12277 0.48525,-0.52033 0.12862,-0.50863 -0.35664,0.0116 -0.9179,0.26307 -1.13422,0.37417 -0.21632,0.11107 -0.56711,0.4151 -0.97052,0.4268 -0.40341,0.0116 -0.56713,-0.29234 -0.60804,-0.50866 -0.0409,-0.21633 -0.15787,-0.45019 0.52618,-0.60219 0.68405,-0.15201 1.02899,-0.36248 1.1167,-0.53203 0.0877,-0.16954 -0.17542,-0.32157 -0.45019,-0.17539 -0.27479,0.14616 -0.13449,0.24556 -1.23362,0.24556 -1.09916,0 -0.91792,-0.0877 -0.90038,-0.43849 0.0175,-0.35082 -0.16954,-0.78344 -0.75419,-0.64313 -0.58465,0.14031 -0.58465,0.84191 -0.49694,1.08162 0.0877,0.23969 0.32155,0.11107 0.50279,0.35663 0.18124,0.24556 -0.25726,0.60804 -0.45604,0.80097 -0.19878,0.19294 -0.4677,0.7425 -0.32155,1.50255 0.14616,0.76004 0.81852,1.25116 0.68406,0.64897 -0.13449,-0.6022 -0.16957,-0.26895 -0.24556,-0.92374 0,0 -0.10524,-0.59635 0.42095,-0.4385 0.52618,0.15786 0.29817,0.47357 0.53788,0.80098 0.2397,0.3274 0.19878,0.58465 0.22216,1.42655 0.0234,0.8419 0.64312,1.73642 0.66651,0.86528 0.0234,-0.87113 0.0585,-1.77734 0.47356,-2.20413 0.41511,-0.4268 1.08159,-0.79513 1.19853,-0.85944 z"
+       id="path3386-7-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="343.68344"
+       y="291.24976"
+       id="text2583-0-4-1-7-7-8-9"><tspan
+         sodipodi:role="line"
+         x="343.68344"
+         y="291.24976"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2868-9-0">Вагоны,</tspan><tspan
+         sodipodi:role="line"
+         x="343.68344"
+         y="294.65375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5551">сошедшие</tspan><tspan
+         sodipodi:role="line"
+         x="343.68344"
+         y="298.05771"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan5553">с рельсов</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -11997,6 +12316,264 @@
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 460.28045,557.18131 h 3.04271 c 0,0 0.0372,-0.77721 -1.46349,-0.77721 -1.50066,0 -1.57922,0.66971 -1.57922,0.77721 z"
            id="path3480-4-7-3-1-2-7-4-1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(153.78248,-158.89886)"
+       style="display:inline"
+       id="g3906-8-0-0-1-3-4">
+      <g
+         transform="translate(6.2803617)"
+         id="g2700-8-2-4-1-4-5">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.29789764;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.59579538, 0.29789769;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2579-6-1-5-1-4-9"
+           width="21.195288"
+           height="15.256315"
+           x="246.27765"
+           y="423.38388" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="256.88126"
+           y="427.14093"
+           id="text2583-1-7-0-4-7-5"><tspan
+             sodipodi:role="line"
+             id="tspan2581-9-7-0-1-5-5"
+             x="256.88126"
+             y="427.14093"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332">Запас для</tspan><tspan
+             sodipodi:role="line"
+             x="256.88126"
+             y="430.54492"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan2603-72-5-8-4-4-8">выживания</tspan></text>
+      </g>
+      <g
+         transform="translate(-201.92455,-122.01646)"
+         id="g3501-1-1-8-6-0-1-1-4-8"
+         style="display:inline">
+        <g
+           id="g3489-9-9-3-3-1-8-3-9-6">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3419-7-5-5-6-5-0-8-0-2"
+             d="m 458.3833,558.94975 c 0,0 -0.0434,-0.76573 0.45884,-0.76573 0.50232,0 3.31656,0 3.31656,0"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3419-3-4-0-9-9-8-6-4-5-2"
+             d="m 463.94629,558.95006 c 0,0 0.0434,-0.76573 -0.45884,-0.76573 -0.50232,0 -3.31656,0 -3.31656,0"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3440-6-3-2-6-8-0-8-2-4"
+             d="m 464.27965,558.91989 h -0.4165"
+             style="fill:none;stroke:#000000;stroke-width:0.169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3440-8-2-7-6-7-7-6-9-4-7"
+             d="m 458.46551,558.91754 h -0.36483"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:0.169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3457-6-0-8-5-1-8-8-5-2"
+             d="m 464.19689,558.91615 v -2.87944 h -0.25432 v 1.17663 c 0,0 0.0175,0.37126 -0.36687,0.37126 -0.38441,0 -4.03556,0 -4.03556,0 0,0 -1.12545,0.0292 -1.12545,-1.08455 0,-1.11376 0,-2.06155 0,-2.06155 h -0.28348"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3459-7-5-1-2-5-2-3-2-0"
+             d="m 458.13278,559.00147 v -4.64571"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             transform="scale(0.26458333)"
+             inkscape:connector-curvature="0"
+             id="path3476-0-6-6-2-7-1-6-4-7"
+             d="m 1731.5593,2103.9812 v -8.4218 h 0.5 0.5 v 4.1131 c 0,4.4694 0,4.4221 0.1747,5.0372 0.043,0.1494 0.1471,0.4142 0.2317,0.5885 0.509,1.0483 1.4594,1.7291 2.8592,2.0479 l 0.3125,0.071 8.1094,0.01 c 5.4652,0.01 8.1585,0 8.2601,-0.023 0.3626,-0.077 0.679,-0.3208 0.8469,-0.652 0.1723,-0.34 0.1733,-0.3566 0.1738,-2.8563 l 4e-4,-2.3047 h 0.4375 0.4375 v 5.4063 5.4062 h -0.4375 -0.4375 l -10e-5,-0.2578 c -2e-4,-0.5142 -0.141,-1.1519 -0.3476,-1.5748 -0.2491,-0.5098 -0.6648,-0.8405 -1.1523,-0.9165 -0.1337,-0.021 -3.235,-0.032 -9.0781,-0.031 -7.5953,3e-4 -8.9055,0.01 -9.0869,0.045 -0.7379,0.1563 -1.2097,0.829 -1.3813,1.9696 -0.026,0.1719 -0.047,0.4144 -0.047,0.5391 l -2e-4,0.2265 h -0.4375 -0.4375 z"
+             style="opacity:1;fill:#000200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00177165;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 459.66509,557.2075 c 0,0 0.18425,-0.42973 0.0264,-0.74544 -0.15785,-0.31571 -0.4151,-0.60804 -0.66065,-0.63143 -0.24556,-0.0234 -0.20755,0.0614 -0.20755,0.0614 0,0 -0.006,0.30404 0.0233,0.39172 0.0292,0.0877 0.23968,0.92377 0.81851,0.92377 0,0 0.005,0.0316 -0.0473,0.002"
+           id="path3478-5-8-5-8-0-5-2-1-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 460.28045,557.18131 h 3.04271 c 0,0 0.0372,-0.77721 -1.46349,-0.77721 -1.50066,0 -1.57922,0.66971 -1.57922,0.77721 z"
+           id="path3480-4-7-3-1-2-7-4-1-9"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(249.19542,-67.234284)"
+       style="display:inline"
+       id="g3906-8-0-0-1-3-4-0">
+      <g
+         transform="translate(6.2803617)"
+         id="g2700-8-2-4-1-4-5-6">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.29789764;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.59579538, 0.29789769;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2579-6-1-5-1-4-9-8"
+           width="21.195288"
+           height="15.256315"
+           x="246.27765"
+           y="423.38388" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="256.88126"
+           y="427.14093"
+           id="text2583-1-7-0-4-7-5-0"><tspan
+             sodipodi:role="line"
+             id="tspan2581-9-7-0-1-5-5-9"
+             x="256.88126"
+             y="427.14093"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332">Запас для</tspan><tspan
+             sodipodi:role="line"
+             x="256.88126"
+             y="430.54492"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan2603-72-5-8-4-4-8-8">выживания</tspan></text>
+      </g>
+      <g
+         transform="translate(-201.92455,-122.01646)"
+         id="g3501-1-1-8-6-0-1-1-4-8-4"
+         style="display:inline">
+        <g
+           id="g3489-9-9-3-3-1-8-3-9-6-2">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3419-7-5-5-6-5-0-8-0-2-3"
+             d="m 458.3833,558.94975 c 0,0 -0.0434,-0.76573 0.45884,-0.76573 0.50232,0 3.31656,0 3.31656,0"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3419-3-4-0-9-9-8-6-4-5-2-7"
+             d="m 463.94629,558.95006 c 0,0 0.0434,-0.76573 -0.45884,-0.76573 -0.50232,0 -3.31656,0 -3.31656,0"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3440-6-3-2-6-8-0-8-2-4-3"
+             d="m 464.27965,558.91989 h -0.4165"
+             style="fill:none;stroke:#000000;stroke-width:0.169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3440-8-2-7-6-7-7-6-9-4-7-9"
+             d="m 458.46551,558.91754 h -0.36483"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:0.169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3457-6-0-8-5-1-8-8-5-2-4"
+             d="m 464.19689,558.91615 v -2.87944 h -0.25432 v 1.17663 c 0,0 0.0175,0.37126 -0.36687,0.37126 -0.38441,0 -4.03556,0 -4.03556,0 0,0 -1.12545,0.0292 -1.12545,-1.08455 0,-1.11376 0,-2.06155 0,-2.06155 h -0.28348"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3459-7-5-1-2-5-2-3-2-0-6"
+             d="m 458.13278,559.00147 v -4.64571"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             transform="scale(0.26458333)"
+             inkscape:connector-curvature="0"
+             id="path3476-0-6-6-2-7-1-6-4-7-0"
+             d="m 1731.5593,2103.9812 v -8.4218 h 0.5 0.5 v 4.1131 c 0,4.4694 0,4.4221 0.1747,5.0372 0.043,0.1494 0.1471,0.4142 0.2317,0.5885 0.509,1.0483 1.4594,1.7291 2.8592,2.0479 l 0.3125,0.071 8.1094,0.01 c 5.4652,0.01 8.1585,0 8.2601,-0.023 0.3626,-0.077 0.679,-0.3208 0.8469,-0.652 0.1723,-0.34 0.1733,-0.3566 0.1738,-2.8563 l 4e-4,-2.3047 h 0.4375 0.4375 v 5.4063 5.4062 h -0.4375 -0.4375 l -10e-5,-0.2578 c -2e-4,-0.5142 -0.141,-1.1519 -0.3476,-1.5748 -0.2491,-0.5098 -0.6648,-0.8405 -1.1523,-0.9165 -0.1337,-0.021 -3.235,-0.032 -9.0781,-0.031 -7.5953,3e-4 -8.9055,0.01 -9.0869,0.045 -0.7379,0.1563 -1.2097,0.829 -1.3813,1.9696 -0.026,0.1719 -0.047,0.4144 -0.047,0.5391 l -2e-4,0.2265 h -0.4375 -0.4375 z"
+             style="opacity:1;fill:#000200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00177165;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 459.66509,557.2075 c 0,0 0.18425,-0.42973 0.0264,-0.74544 -0.15785,-0.31571 -0.4151,-0.60804 -0.66065,-0.63143 -0.24556,-0.0234 -0.20755,0.0614 -0.20755,0.0614 0,0 -0.006,0.30404 0.0233,0.39172 0.0292,0.0877 0.23968,0.92377 0.81851,0.92377 0,0 0.005,0.0316 -0.0473,0.002"
+           id="path3478-5-8-5-8-0-5-2-1-7-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 460.28045,557.18131 h 3.04271 c 0,0 0.0372,-0.77721 -1.46349,-0.77721 -1.50066,0 -1.57922,0.66971 -1.57922,0.77721 z"
+           id="path3480-4-7-3-1-2-7-4-1-9-8"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(89.839853,115.63367)"
+       style="display:inline"
+       id="g3906-9">
+      <g
+         transform="translate(6.2803617)"
+         id="g2700-6">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.29789764;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.59579538, 0.29789769;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2579-69"
+           width="21.195288"
+           height="15.256315"
+           x="246.27765"
+           y="423.38388" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f2fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="256.88126"
+           y="427.14093"
+           id="text2583-9"><tspan
+             sodipodi:role="line"
+             id="tspan2581-5"
+             x="256.88126"
+             y="427.14093"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332">Запас для</tspan><tspan
+             sodipodi:role="line"
+             x="256.88126"
+             y="430.54492"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:0.2;font-family:'Fira Sans Condensed SemiBold';-inkscape-font-specification:'Fira Sans Condensed SemiBold,  Bold';text-align:center;text-anchor:middle;fill:#2f2fff;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan2603-9">выживания</tspan></text>
+      </g>
+      <g
+         transform="translate(-201.92455,-122.01646)"
+         id="g3501-1-1-8-5"
+         style="display:inline">
+        <g
+           id="g3489-9-9-3-9">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3419-7-5-5-3"
+             d="m 458.3833,558.94975 c 0,0 -0.0434,-0.76573 0.45884,-0.76573 0.50232,0 3.31656,0 3.31656,0"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3419-3-4-0-9-8"
+             d="m 463.94629,558.95006 c 0,0 0.0434,-0.76573 -0.45884,-0.76573 -0.50232,0 -3.31656,0 -3.31656,0"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3440-6-3-2-60"
+             d="m 464.27965,558.91989 h -0.4165"
+             style="fill:none;stroke:#000000;stroke-width:0.169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3440-8-2-7-6-5"
+             d="m 458.46551,558.91754 h -0.36483"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:0.169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3457-6-0-8-1"
+             d="m 464.19689,558.91615 v -2.87944 h -0.25432 v 1.17663 c 0,0 0.0175,0.37126 -0.36687,0.37126 -0.38441,0 -4.03556,0 -4.03556,0 0,0 -1.12545,0.0292 -1.12545,-1.08455 0,-1.11376 0,-2.06155 0,-2.06155 h -0.28348"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3459-7-5-1-1"
+             d="m 458.13278,559.00147 v -4.64571"
+             style="fill:none;stroke:#000000;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             transform="scale(0.26458333)"
+             inkscape:connector-curvature="0"
+             id="path3476-0-6-6-25"
+             d="m 1731.5593,2103.9812 v -8.4218 h 0.5 0.5 v 4.1131 c 0,4.4694 0,4.4221 0.1747,5.0372 0.043,0.1494 0.1471,0.4142 0.2317,0.5885 0.509,1.0483 1.4594,1.7291 2.8592,2.0479 l 0.3125,0.071 8.1094,0.01 c 5.4652,0.01 8.1585,0 8.2601,-0.023 0.3626,-0.077 0.679,-0.3208 0.8469,-0.652 0.1723,-0.34 0.1733,-0.3566 0.1738,-2.8563 l 4e-4,-2.3047 h 0.4375 0.4375 v 5.4063 5.4062 h -0.4375 -0.4375 l -10e-5,-0.2578 c -2e-4,-0.5142 -0.141,-1.1519 -0.3476,-1.5748 -0.2491,-0.5098 -0.6648,-0.8405 -1.1523,-0.9165 -0.1337,-0.021 -3.235,-0.032 -9.0781,-0.031 -7.5953,3e-4 -8.9055,0.01 -9.0869,0.045 -0.7379,0.1563 -1.2097,0.829 -1.3813,1.9696 -0.026,0.1719 -0.047,0.4144 -0.047,0.5391 l -2e-4,0.2265 h -0.4375 -0.4375 z"
+             style="opacity:1;fill:#000200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00177165;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 459.66509,557.2075 c 0,0 0.18425,-0.42973 0.0264,-0.74544 -0.15785,-0.31571 -0.4151,-0.60804 -0.66065,-0.63143 -0.24556,-0.0234 -0.20755,0.0614 -0.20755,0.0614 0,0 -0.006,0.30404 0.0233,0.39172 0.0292,0.0877 0.23968,0.92377 0.81851,0.92377 0,0 0.005,0.0316 -0.0473,0.002"
+           id="path3478-5-8-5-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 460.28045,557.18131 h 3.04271 c 0,0 0.0372,-0.77721 -1.46349,-0.77721 -1.50066,0 -1.57922,0.66971 -1.57922,0.77721 z"
+           id="path3480-4-7-3-6"
            inkscape:connector-curvature="0" />
       </g>
     </g>
